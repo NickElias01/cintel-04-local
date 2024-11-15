@@ -7,3 +7,4 @@ seaborn
 shiny
 shinylive
 shinywidgets
+shinyswatch
